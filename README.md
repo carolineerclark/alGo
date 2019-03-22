@@ -1,1 +1,1 @@
-# allGo
+# alGo
